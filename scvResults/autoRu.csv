@@ -1,0 +1,482 @@
+Mark_info;Model_info;Year;Region;Vin_resolution;Mileage;Owners_number;Body_type;PTS;Color_hex;Salon;Count_doors;Auto_class;Trunk_volume_min;Price_rub
+Mercedes-Benz;GLS;2019;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;NaN;040001;True;5;J;355;9430000
+Ford;C-MAX;2004;Бор;True;192000;3;COMPACTVAN;True;97948F;False;5;M;550;260000
+LADA (ВАЗ);2107;2002;Нижний Новгород;True;184000;1;SEDAN;True;4A2197;False;4;B;379;38000
+Skoda;Rapid;2015;Нижний Новгород;True;65000;1;LIFTBACK;True;FAFBFB;False;5;B;550;535000
+Renault;Logan;2017;Нижний Новгород;True;65000;1;SEDAN;True;FAFBFB;False;4;B;510;459000
+Mazda;CX-5;2015;Нижний Новгород;True;55000;1;ALLROAD_5_DOORS;True;CACECB;False;5;J;403;1359000
+Toyota;Land Cruiser;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;040001;True;5;J;259;6258000
+BMW;5 серия;2017;Нижний Новгород;True;43000;1;SEDAN;True;FAFBFB;False;4;E;530;3000000
+Chevrolet;Tahoe;2016;Нижний Новгород;True;97853;1;ALLROAD_5_DOORS;True;040001;False;5;J;433;2290000
+Nissan;Juke;2011;Нижний Новгород;True;97000;3;ALLROAD_5_DOORS;True;EE1D19;False;5;J;251;535000
+Land Rover;Freelander;2013;Дзержинск;True;175700;3;ALLROAD_5_DOORS;False;97948F;False;5;J;755;1100000
+Chevrolet;Niva;2017;Нижний Новгород;True;51000;1;ALLROAD_5_DOORS;True;040001;False;5;J;320;545000
+Chevrolet;Cruze;2013;Нижний Новгород;True;150000;3;SEDAN;False;200204;False;4;C;450;395000
+Kia;Seltos;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;0000CC;True;5;J;433;1549900
+Renault;Symbol;2006;Нижний Новгород;True;150000;3;SEDAN;False;97948F;False;4;B;510;165000
+Ford;Focus;2007;Нижний Новгород;True;233000;2;HATCHBACK_3_DOORS;True;EE1D19;False;3;C;282;249000
+Ford;Focus;2007;Нижний Новгород;True;171000;3;SEDAN;True;22A0F8;False;4;C;490;260000
+BMW;5 серия;1997;Кулебаки;True;220000;3;SEDAN;False;0000CC;False;4;E;460;230000
+Kia;Sportage;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;EE1D19;True;5;J;491;1709900
+BMW;X5;2007;Нижний Новгород;True;180000;3;ALLROAD_5_DOORS;False;040001;False;5;J;620;700000
+Lexus;GX;2014;Нижний Новгород;True;104000;1;ALLROAD_5_DOORS;True;040001;False;5;J;621;2499000
+Audi;Q5;2019;Дзержинск;True;6700;1;ALLROAD_5_DOORS;True;200204;False;5;J;550;3090000
+Mitsubishi;Lancer;2008;Павлово;True;211000;3;SEDAN;False;040001;False;4;C;315;550000
+Nissan;Qashqai;2012;Орел;True;96000;2;ALLROAD_5_DOORS;True;4A2197;False;5;J;400;575000
+Nissan;Qashqai;2015;Бор;True;83000;1;ALLROAD_5_DOORS;True;EE1D19;False;5;J;430;800000
+Hyundai;Tucson;2005;Саров;True;136000;3;ALLROAD_5_DOORS;True;040001;False;5;J;325;399999
+Hyundai;i30 N;2019;Нижний Новгород;NaN;0;NaN;HATCHBACK_5_DOORS;True;040001;True;5;C;395;2200000
+LADA (ВАЗ);2107;2004;Мотовилово;True;100000;3;SEDAN;False;0000CC;False;4;B;379;43000
+Hyundai;Tucson;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;488;1629000
+Mitsubishi;Lancer;2007;Нижний Новгород;True;150000;1;SEDAN;True;EE1D19;False;4;C;315;448000
+Peugeot;308;2011;Нижний Новгород;True;119500;1;HATCHBACK_5_DOORS;True;0000CC;False;5;C;348;370000
+Opel;Astra;2011;Нижний Новгород;True;159600;2;WAGON_5_DOORS;True;CACECB;False;5;C;500;385000
+LADA (ВАЗ);Granta;2014;Саров;True;104000;2;SEDAN;True;CACECB;False;4;B;480;223000
+Kia;Rio;2016;Нижний Новгород;True;19200;1;HATCHBACK_5_DOORS;True;CACECB;False;5;B;389;650000
+Hyundai;Solaris;2011;Володарск;False;148498;2;HATCHBACK_5_DOORS;True;22A0F8;False;5;B;370;420000
+LADA (ВАЗ);2121 (4x4);2016;Нижний Новгород;True;37000;3;ALLROAD_3_DOORS;True;007F00;False;3;J;265;335000
+Hyundai;Creta;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;402;1223000
+Hyundai;i30;2011;Нижний Новгород;True;97136;3;HATCHBACK_5_DOORS;False;FAFBFB;False;5;C;340;420000
+Mercedes-Benz;GLE;2018;Нижний Новгород;True;15750;1;ALLROAD_5_DOORS;True;040001;False;5;J;690;3570000
+Suzuki;SX4;2011;Нижний Новгород;True;98000;1;HATCHBACK_5_DOORS;True;97948F;False;5;J;270;578000
+Skoda;Rapid;2015;Нижний Новгород;True;65000;1;LIFTBACK;True;FAFBFB;False;5;B;550;535000
+Renault;Logan;2017;Нижний Новгород;True;65000;1;SEDAN;True;FAFBFB;False;4;B;510;459000
+Mazda;CX-5;2015;Нижний Новгород;True;55000;1;ALLROAD_5_DOORS;True;CACECB;False;5;J;403;1359000
+Toyota;Land Cruiser;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;040001;True;5;J;259;6258000
+BMW;5 серия;2017;Нижний Новгород;True;43000;1;SEDAN;True;FAFBFB;False;4;E;530;3000000
+Chevrolet;Tahoe;2016;Нижний Новгород;True;97853;1;ALLROAD_5_DOORS;True;040001;False;5;J;433;2290000
+Nissan;Juke;2011;Нижний Новгород;True;97000;3;ALLROAD_5_DOORS;True;EE1D19;False;5;J;251;535000
+Land Rover;Freelander;2013;Дзержинск;True;175700;3;ALLROAD_5_DOORS;False;97948F;False;5;J;755;1100000
+Chevrolet;Niva;2017;Нижний Новгород;True;51000;1;ALLROAD_5_DOORS;True;040001;False;5;J;320;545000
+Chevrolet;Cruze;2013;Нижний Новгород;True;150000;3;SEDAN;False;200204;False;4;C;450;395000
+Kia;Seltos;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;0000CC;True;5;J;433;1549900
+Renault;Symbol;2006;Нижний Новгород;True;150000;3;SEDAN;False;97948F;False;4;B;510;165000
+Ford;Focus;2007;Нижний Новгород;True;233000;2;HATCHBACK_3_DOORS;True;EE1D19;False;3;C;282;249000
+Ford;Focus;2007;Нижний Новгород;True;171000;3;SEDAN;True;22A0F8;False;4;C;490;260000
+BMW;5 серия;1997;Кулебаки;True;220000;3;SEDAN;False;0000CC;False;4;E;460;230000
+Kia;Sportage;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;EE1D19;True;5;J;491;1709900
+BMW;X5;2007;Нижний Новгород;True;180000;3;ALLROAD_5_DOORS;False;040001;False;5;J;620;700000
+Lexus;GX;2014;Нижний Новгород;True;104000;1;ALLROAD_5_DOORS;True;040001;False;5;J;621;2499000
+Audi;Q5;2019;Дзержинск;True;6700;1;ALLROAD_5_DOORS;True;200204;False;5;J;550;3090000
+Mitsubishi;Lancer;2008;Павлово;True;211000;3;SEDAN;False;040001;False;4;C;315;550000
+Nissan;Qashqai;2012;Орел;True;96000;2;ALLROAD_5_DOORS;True;4A2197;False;5;J;400;575000
+Nissan;Qashqai;2015;Бор;True;83000;1;ALLROAD_5_DOORS;True;EE1D19;False;5;J;430;800000
+Hyundai;Tucson;2005;Саров;True;136000;3;ALLROAD_5_DOORS;True;040001;False;5;J;325;399999
+Hyundai;i30 N;2019;Нижний Новгород;NaN;0;NaN;HATCHBACK_5_DOORS;True;040001;True;5;C;395;2200000
+LADA (ВАЗ);2107;2004;Мотовилово;True;100000;3;SEDAN;False;0000CC;False;4;B;379;43000
+Hyundai;Tucson;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;488;1629000
+Mitsubishi;Lancer;2007;Нижний Новгород;True;150000;1;SEDAN;True;EE1D19;False;4;C;315;448000
+Peugeot;308;2011;Нижний Новгород;True;119500;1;HATCHBACK_5_DOORS;True;0000CC;False;5;C;348;370000
+Opel;Astra;2011;Нижний Новгород;True;159600;2;WAGON_5_DOORS;True;CACECB;False;5;C;500;385000
+LADA (ВАЗ);Granta;2014;Саров;True;104000;2;SEDAN;True;CACECB;False;4;B;480;223000
+Kia;Rio;2016;Нижний Новгород;True;19200;1;HATCHBACK_5_DOORS;True;CACECB;False;5;B;389;650000
+Hyundai;Solaris;2011;Володарск;False;148498;2;HATCHBACK_5_DOORS;True;22A0F8;False;5;B;370;420000
+LADA (ВАЗ);2121 (4x4);2016;Нижний Новгород;True;37000;3;ALLROAD_3_DOORS;True;007F00;False;3;J;265;335000
+Hyundai;Creta;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;402;1223000
+BMW;5 серия;2019;Нижний Новгород;True;33000;1;SEDAN;True;FAFBFB;False;4;E;530;3250000
+Volkswagen;Phaeton;2015;Нижний Новгород;NaN;147000;2;SEDAN;True;97948F;False;4;F;500;1555500
+Porsche;Cayenne;2012;Нижний Новгород;NaN;105000;1;ALLROAD_5_DOORS;True;CACECB;False;5;J;670;1950000
+Nissan;Cube;2005;Нижний Новгород;True;263000;3;COMPACTVAN;True;040001;False;5;M;NaN;260000
+УАЗ;3151;1999;Нижний Новгород;NaN;100000;3;ALLROAD_5_DOORS;True;007F00;False;5;J;900;75000
+Volkswagen;Touareg;2008;Нижний Новгород;NaN;155000;2;ALLROAD_5_DOORS;False;EE1D19;False;5;J;555;840000
+Hummer;H3;2007;Нижний Новгород;True;117000;3;ALLROAD_5_DOORS;False;040001;False;5;J;835;1050000
+Kia;Soul;2020;Нижний Новгород;NaN;0;NaN;HATCHBACK_5_DOORS;True;FAFBFB;True;5;J;364;1659900
+Volkswagen;Tiguan;2012;Нижний Новгород;True;123000;1;ALLROAD_5_DOORS;True;C49648;True;5;J;470;760000
+Kia;Optima;2020;Нижний Новгород;NaN;0;NaN;SEDAN;True;FAFBFB;True;4;D;510;1719900
+Ford;Focus;2017;Нижний Новгород;False;48000;1;HATCHBACK_5_DOORS;True;040001;False;5;C;277;750000
+LADA (ВАЗ);Kalina;2008;Нижний Новгород;False;190000;3;WAGON_5_DOORS;False;4A2197;False;5;B;350;115000
+LADA (ВАЗ);2110;2001;Кстово;False;100000;3;SEDAN;True;97948F;False;4;B;450;35000
+LADA (ВАЗ);Granta;2013;Новосмолинский;True;85000;3;SEDAN;True;CACECB;False;4;B;480;225000
+Great Wall;Hover H5;2013;Нижний Новгород;True;97473;2;ALLROAD_5_DOORS;True;97948F;False;5;J;810;519000
+Audi;80;1991;Нижний Новгород;True;350331;2;SEDAN;True;007F00;False;4;D;373;85000
+Kia;Ceed;2020;Нижний Новгород;NaN;0;NaN;WAGON_5_DOORS;True;FAFBFB;True;5;C;625;1379900
+Mercedes-Benz;GLE;2018;Нижний Новгород;True;15750;1;ALLROAD_5_DOORS;True;040001;False;5;J;690;3570000
+LADA (ВАЗ);2110;2003;Нижний Новгород;True;184663;3;SEDAN;True;CACECB;False;4;B;450;68000
+Chevrolet;Niva;2006;Нижний Новгород;True;125442;3;ALLROAD_5_DOORS;True;CACECB;False;5;J;320;128000
+Opel;Astra;2000;Нижний Новгород;True;172092;3;WAGON_5_DOORS;True;FAFBFB;False;5;C;460;128000
+Hyundai;Tucson;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;C49648;True;5;J;488;1932000
+LADA (ВАЗ);2114;2009;Нижний Новгород;True;126958;3;HATCHBACK_5_DOORS;True;97948F;False;5;B;330;88000
+Mazda;CX-7;2007;Нижний Новгород;NaN;106023;1;ALLROAD_5_DOORS;True;4A2197;False;5;J;455;329990
+Datsun;on-DO;2019;Нижний Новгород;True;23526;1;SEDAN;True;97948F;False;4;B;530;419000
+Renault;Latitude;2013;Нижний Новгород;True;117000;3;SEDAN;True;FAFBFB;False;4;D;477;559000
+Citroen;C3 Picasso;2010;Нижний Новгород;True;104000;3;COMPACTVAN;False;040001;True;5;M;500;340000
+Kia;Seltos;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;433;1549900
+Volkswagen;Touareg;2017;Нижний Новгород;True;43000;1;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;580;2690000
+Volkswagen;Touareg;2012;Нижний Новгород;True;200000;3;ALLROAD_5_DOORS;True;0000CC;True;5;J;580;950000
+Mercedes-Benz;S-Класс;2020;Нижний Новгород;False;14;1;SEDAN;True;040001;True;4;F;510;7990000
+Mazda;CX-5;2015;Нижний Новгород;True;58823;3;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;403;1229000
+LADA (ВАЗ);Largus;2018;Нижний Новгород;False;60000;2;WAGON_5_DOORS;True;FAFBFB;False;5;C;135;490000
+BMW;X3;2014;Нижний Новгород;True;117900;3;ALLROAD_5_DOORS;True;040001;False;5;J;550;1460000
+Chevrolet;Niva;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;97948F;True;5;J;320;834000
+Suzuki;Grand Vitara;2008;Нижний Новгород;True;186603;3;ALLROAD_3_DOORS;False;C49648;False;3;J;184;429990
+Toyota;Corolla;2004;Нижний Новгород;True;212000;3;SEDAN;True;CACECB;False;4;C;437;299000
+Renault;Duster;2017;Нижний Новгород;True;37000;2;ALLROAD_5_DOORS;True;040001;False;5;J;408;758000
+LADA (ВАЗ);Largus;2020;Нижний Новгород;NaN;0;NaN;WAGON_5_DOORS;True;FAFBFB;True;5;C;135;683900
+Skoda;Octavia;2017;Саров;True;43000;1;LIFTBACK;True;CACECB;False;5;C;590;1249000
+Land Rover;Range Rover Sport;2012;Нижний Новгород;True;180000;1;ALLROAD_5_DOORS;True;040001;True;5;J;960;1195000
+Ford;Kuga;2013;Нижний Новгород;True;150000;2;ALLROAD_5_DOORS;True;200204;False;5;J;456;790000
+Jaguar;XF;2012;Нижний Новгород;True;130000;3;SEDAN;True;FAFBFB;False;4;E;500;1090000
+Chevrolet;Niva;2019;Нижний Новгород;True;10200;2;ALLROAD_5_DOORS;True;200204;True;5;J;320;675000
+Skoda;Fabia;2008;Нижний Новгород;True;160085;2;HATCHBACK_5_DOORS;True;EE1D19;False;5;B;300;229000
+Mercedes-Benz;GL-Класс;2013;Арзамас;True;185000;2;ALLROAD_5_DOORS;True;97948F;False;5;J;680;2150000
+ГАЗ;31105 «Волга»;2008;Нижний Новгород;NaN;107000;2;SEDAN;True;0000CC;False;4;E;500;207000
+Ford;Focus;2008;Нижний Новгород;True;139000;3;SEDAN;True;97948F;False;4;C;467;299000
+Land Rover;Range Rover;2019;Нижний Новгород;True;3200;1;ALLROAD_5_DOORS;True;97948F;True;5;J;900;8890000
+LADA (ВАЗ);XRAY;2020;Нижний Новгород;NaN;0;NaN;HATCHBACK_5_DOORS;True;CACECB;True;5;B;361;708900
+Nissan;Qashqai;2012;Нижний Новгород;True;135000;1;ALLROAD_5_DOORS;True;97948F;False;5;J;400;735000
+Kia;Sportage;2009;Нижний Новгород;True;165023;3;ALLROAD_5_DOORS;True;97948F;False;5;J;332;519000
+Land Rover;Range Rover Velar;2019;Нижний Новгород;True;2200;1;ALLROAD_5_DOORS;True;040001;True;5;J;673;3890000
+Land Rover;Range Rover Sport;2014;Нижний Новгород;True;129282;1;ALLROAD_5_DOORS;True;97948F;True;5;J;489;2200000
+Opel;Zafira;2001;Нижний Новгород;True;174000;3;COMPACTVAN;True;97948F;False;5;M;150;229000
+Kia;Seltos;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;040001;True;5;J;433;1489900
+Kia;Ceed;2009;Нижний Новгород;True;210000;2;HATCHBACK_5_DOORS;True;CACECB;False;5;C;340;399999
+Mazda;3;2008;Нижний Новгород;True;138000;2;SEDAN;True;97948F;False;4;C;420;362000
+Chevrolet;Orlando;2014;Нижний Новгород;True;87000;1;COMPACTVAN;True;200204;False;5;M;454;639000
+Hyundai;Santa Fe;2013;Нижний Новгород;True;122400;2;ALLROAD_5_DOORS;True;FAFBFB;False;5;J;585;1049000
+Kia;Rio;2020;Нижний Новгород;NaN;0;NaN;SEDAN;True;040001;True;4;B;480;904900
+Hyundai;Santa Fe;2014;Нижний Новгород;True;91000;1;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;585;1230000
+Suzuki;SX4;2012;Нижний Новгород;True;101000;1;HATCHBACK_5_DOORS;True;CACECB;True;5;J;270;490000
+Honda;CR-V;2012;Нижний Новгород;True;135000;3;ALLROAD_5_DOORS;True;97948F;False;5;J;442;905000
+Volkswagen;Polo;2019;Нижний Новгород;NaN;0;NaN;SEDAN;True;FAFBFB;True;4;B;460;880300
+Chevrolet;Aveo;2015;Нижний Новгород;True;58000;1;HATCHBACK_5_DOORS;True;CACECB;False;5;B;290;469000
+Hyundai;Santa Fe;2012;Нижний Новгород;True;45000;2;ALLROAD_5_DOORS;True;CACECB;True;5;J;585;1150000
+Nissan;Qashqai;2012;Нижний Новгород;True;116000;1;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;400;620000
+Volkswagen;Touareg;2016;Нижний Новгород;True;148000;1;ALLROAD_5_DOORS;True;040001;True;5;J;580;2350000
+Nissan;Qashqai;2014;Нижний Новгород;True;79000;1;ALLROAD_5_DOORS;True;EE1D19;True;5;J;430;930000
+LADA (ВАЗ);Vesta;2018;Дзержинск;True;42673;1;WAGON_5_DOORS;True;FAFBFB;False;5;B;480;639000
+LADA (ВАЗ);Vesta;2019;Дзержинск;True;2503;1;SEDAN;True;FAFBFB;False;4;B;480;859000
+Changan;CS55;2019;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;505;1529900
+Hyundai;Solaris;2016;Дзержинск;True;60000;1;SEDAN;True;200204;False;4;B;465;599000
+Great Wall;Hover H3;2015;Нижний Новгород;True;94000;1;ALLROAD_5_DOORS;True;040001;False;5;J;420;559000
+Mazda;6;2006;Нижний Новгород;True;196045;3;LIFTBACK;True;200204;False;5;D;492;279000
+Porsche;Cayenne;2012;Арзамас;True;139000;3;ALLROAD_5_DOORS;True;040001;False;5;J;670;1649000
+LADA (ВАЗ);XRAY;2020;Нижний Новгород;NaN;0;NaN;HATCHBACK_5_DOORS;True;007F00;True;5;B;361;741900
+Hyundai;i40;2013;Нижний Новгород;True;101000;3;SEDAN;True;97948F;False;4;D;503;720000
+Land Rover;Range Rover;2014;Нижний Новгород;True;110000;2;ALLROAD_5_DOORS;True;EE1D19;False;5;J;909;2800000
+LADA (ВАЗ);Kalina;2013;Нижний Новгород;True;86011;2;HATCHBACK_5_DOORS;True;FAFBFB;False;5;B;240;319000
+Hyundai;Sonata;2006;Нижний Новгород;True;180000;3;SEDAN;False;040001;False;4;D;430;179777
+Volkswagen;Polo;2019;Нижний Новгород;NaN;0;NaN;SEDAN;True;200204;True;4;B;460;903900
+Audi;Q5;2011;Афонино;True;99193;1;ALLROAD_5_DOORS;True;FAFBFB;False;5;J;540;897000
+Ford;Fusion;2006;Нижний Новгород;True;169745;3;HATCHBACK_5_DOORS;True;97948F;False;5;B;337;206000
+Volvo;S60;2011;Нижний Новгород;True;107831;2;SEDAN;True;EE1D19;False;4;D;380;547000
+Renault;Logan;2007;Нижний Новгород;True;146707;1;SEDAN;True;0000CC;False;4;B;510;199000
+Renault;Logan;2008;Нижний Новгород;True;151125;1;SEDAN;True;97948F;False;4;B;510;217000
+Chevrolet;Cruze;2014;Нижний Новгород;True;98650;2;WAGON_5_DOORS;True;FAFBFB;False;5;C;500;587000
+Ford;Focus;2007;Нижний Новгород;True;143257;2;SEDAN;True;97948F;False;4;C;490;265000
+Renault;Logan;2006;Нижний Новгород;True;149621;3;SEDAN;True;97948F;False;4;B;510;187000
+LADA (ВАЗ);2121 (4x4);2019;Нижний Новгород;NaN;0;NaN;ALLROAD_3_DOORS;True;040001;True;3;J;265;566900
+DongFeng;AX7;2018;Нижний Новгород;True;16430;1;ALLROAD_5_DOORS;True;FAFBFB;False;5;J;565;950000
+Volkswagen;Teramont;2018;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;871;3614000
+Renault;Logan;2016;Нижний Новгород;True;16849;1;SEDAN;True;0000CC;False;4;B;510;479000
+Nissan;X-Trail;2006;Нижний Новгород;True;189000;2;ALLROAD_5_DOORS;True;97948F;False;5;J;410;439000
+Hyundai;ix35;2013;Нижний Новгород;True;122796;1;ALLROAD_5_DOORS;True;FAFBFB;False;5;J;591;729000
+Mercedes-Benz;M-Класс;2014;Нижний Новгород;True;135000;1;ALLROAD_5_DOORS;True;200204;False;5;J;690;1659000
+Land Rover;Discovery;2019;Нижний Новгород;True;2000;1;ALLROAD_5_DOORS;True;040001;True;5;J;1231;4890000
+LADA (ВАЗ);Granta;2012;Саров;True;120589;3;SEDAN;True;0000CC;False;4;B;480;245000
+LADA (ВАЗ);2114;2006;Нижний Новгород;True;128000;3;HATCHBACK_5_DOORS;False;97948F;False;5;B;330;56000
+Volvo;XC60;2014;Нижний Новгород;True;87548;1;ALLROAD_5_DOORS;True;97948F;False;5;J;490;1349990
+Chevrolet;Niva;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;97948F;True;5;J;320;701000
+Nissan;Almera Classic;2006;Нижний Новгород;True;162000;3;SEDAN;True;040001;False;4;C;460;245000
+BMW;X1;2013;Нижний Новгород;True;88000;1;ALLROAD_5_DOORS;True;C49648;False;5;J;420;1090000
+LADA (ВАЗ);2114;2012;Нижний Новгород;True;76993;2;HATCHBACK_5_DOORS;True;CACECB;False;5;B;330;178000
+LADA (ВАЗ);2121 (4x4);2020;Нижний Новгород;NaN;0;NaN;ALLROAD_3_DOORS;True;007F00;True;3;J;265;566900
+Chevrolet;Niva;2012;Нижний Новгород;True;86216;1;ALLROAD_5_DOORS;True;040001;False;5;J;320;348000
+Renault;Logan;2005;Лысково;True;210000;3;SEDAN;True;CACECB;False;4;B;510;165000
+LADA (ВАЗ);Priora;2013;Нижний Новгород;True;95859;3;SEDAN;True;97948F;False;4;B;430;258000
+Mercedes-Benz;C-Класс;2006;Нижний Новгород;True;200000;3;SEDAN;False;040001;False;4;D;455;433333
+Toyota;Land Cruiser Prado;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;200204;True;5;J;621;3425000
+Mercedes-Benz;C-Класс;2006;Нижний Новгород;True;200000;3;SEDAN;False;040001;False;4;D;455;433333
+Mercedes-Benz;E-Класс;2009;Нижний Новгород;True;194000;2;SEDAN;True;040001;False;4;E;540;799000
+Renault;Duster;2017;Нижний Новгород;True;39000;1;ALLROAD_5_DOORS;True;040001;False;5;J;408;660000
+Mitsubishi;Pajero Sport;2012;Нижний Новгород;NaN;169000;2;ALLROAD_5_DOORS;True;040001;True;5;J;NaN;830000
+Subaru;Forester;2012;Нижний Новгород;True;165000;1;ALLROAD_5_DOORS;True;040001;False;5;J;450;808000
+Nissan;Qashqai;2010;Нижний Новгород;True;156000;3;ALLROAD_5_DOORS;True;040001;False;5;J;400;529000
+Hyundai;Matrix;2008;Нижний Новгород;True;49000;1;COMPACTVAN;True;22A0F8;False;5;M;354;345000
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;LIFTBACK;True;EE1D19;True;5;B;435;524500
+Hyundai;Elantra;2009;Нижний Новгород;True;156300;1;SEDAN;True;0000CC;False;4;C;460;369000
+Suzuki;SX4;2009;Нижний Новгород;True;130000;1;HATCHBACK_5_DOORS;True;FAFBFB;False;5;J;270;429000
+LADA (ВАЗ);Largus;2013;Нижний Новгород;True;140000;1;WAGON_5_DOORS;True;CACECB;False;5;C;135;399000
+Great Wall;Hover H5;2013;Нижний Новгород;True;107500;2;ALLROAD_5_DOORS;True;040001;False;5;J;810;530000
+Geely;Atlas;2018;Нижний Новгород;True;12000;1;ALLROAD_5_DOORS;True;040001;False;5;J;320;1070000
+Suzuki;Vitara;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;CACECB;True;5;J;375;1746090
+Peugeot;408;2012;Нижний Новгород;True;99000;1;SEDAN;True;97948F;False;4;C;560;399000
+Daewoo;Nexia;2009;Нижний Новгород;True;154700;3;SEDAN;True;EE1D19;False;4;C;530;119000
+LADA (ВАЗ);2115;2007;Нижний Новгород;NaN;114023;3;SEDAN;True;97948F;False;4;B;445;88000
+LADA (ВАЗ);Largus;2019;Нижний Новгород;NaN;0;NaN;VAN;True;FAFBFB;True;5;C;2540;626900
+Kia;Ceed;2016;Нижний Новгород;True;122786;1;WAGON_5_DOORS;True;040001;False;5;C;528;779000
+Kia;Sportage;2013;Нижний Новгород;True;99000;1;ALLROAD_5_DOORS;True;200204;True;5;J;564;799000
+Mitsubishi;ASX;2014;Нижний Новгород;True;51000;1;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;384;770000
+LADA (ВАЗ);2109;2000;Нижний Новгород;NaN;200000;2;HATCHBACK_5_DOORS;False;EE1D19;False;5;B;270;35000
+Ford;Maverick;2006;Нижний Новгород;True;142282;2;ALLROAD_5_DOORS;True;040001;False;5;J;985;448000
+Kia;Cerato;2019;Нижний Новгород;NaN;0;NaN;SEDAN;True;CACECB;True;4;C;502;1254900
+Hyundai;Grand Starex;2010;Нижний Новгород;True;157000;2;MINIVAN;True;97948F;False;5;M;851;789000
+Toyota;RAV4;2005;Нижний Новгород;True;244000;3;ALLROAD_5_DOORS;False;CACECB;False;5;J;586;545000
+LADA (ВАЗ);2114;2005;Нижний Новгород;True;120000;3;HATCHBACK_5_DOORS;True;040001;False;5;B;330;70000
+Audi;A3;2014;Нижний Новгород;True;96000;1;SEDAN;True;040001;False;4;C;425;665000
+Volkswagen;Touareg;2015;Нижний Новгород;True;101000;3;ALLROAD_5_DOORS;True;FAFBFB;False;5;J;580;2900000
+Volkswagen;Polo;2019;Нижний Новгород;NaN;0;NaN;SEDAN;True;200204;True;4;B;460;916900
+LADA (ВАЗ);Kalina;2012;Нижний Новгород;True;98129;2;HATCHBACK_5_DOORS;True;FAFBFB;False;5;B;235;218000
+Hyundai;Elantra;2007;Нижний Новгород;True;126084;3;SEDAN;False;EE1D19;False;4;C;460;348000
+Datsun;mi-DO;2016;Нижний Новгород;True;5409;2;HATCHBACK_5_DOORS;True;97948F;False;5;B;240;399000
+Mitsubishi;ASX;2011;Нижний Новгород;True;137618;2;ALLROAD_5_DOORS;True;0000CC;False;5;J;415;629000
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;LIFTBACK;True;FAFBFB;True;5;B;435;483900
+Kia;Ceed;2015;Нижний Новгород;True;143830;1;HATCHBACK_5_DOORS;True;200204;False;5;C;380;689000
+Peugeot;207;2009;Нижний Новгород;True;92545;3;HATCHBACK_5_DOORS;True;007F00;False;5;B;270;269000
+Opel;Astra;2011;Нижний Новгород;True;65400;1;SEDAN;True;0000CC;True;4;C;490;449000
+BMW;5 серия;1994;Суроватиха;True;427000;3;SEDAN;False;EE1D19;False;4;E;460;135000
+Chevrolet;Niva;2017;Нижний Новгород;True;58000;1;ALLROAD_5_DOORS;True;040001;False;5;J;320;545000
+Nissan;Qashqai;2007;Нижний Новгород;True;168000;3;ALLROAD_5_DOORS;False;C49648;False;5;J;352;449000
+LADA (ВАЗ);Vesta;2020;Нижний Новгород;NaN;0;NaN;WAGON_5_DOORS;True;200204;True;5;B;480;895900
+Mazda;CX-5;2015;Нижний Новгород;True;130000;1;ALLROAD_5_DOORS;True;0000CC;False;5;J;403;1179000
+Datsun;mi-DO;2015;Нижний Новгород;True;68361;3;HATCHBACK_5_DOORS;True;FF8649;False;5;B;240;369000
+Kia;Sorento;2013;Нижний Новгород;True;85530;1;ALLROAD_5_DOORS;True;040001;False;5;J;530;869000
+Ford;Fusion;2007;Нижний Новгород;True;166000;3;HATCHBACK_5_DOORS;True;CACECB;False;5;B;337;299000
+Kia;Cerato;2013;Нижний Новгород;True;110413;2;SEDAN;True;97948F;False;4;C;482;628000
+Nissan;Qashqai;2013;Нижний Новгород;True;172115;1;ALLROAD_5_DOORS;True;97948F;False;5;J;400;654000
+Volkswagen;Polo;2011;Нижний Новгород;True;128000;2;SEDAN;True;CACECB;False;4;B;460;369999
+LADA (ВАЗ);Granta;2017;Нижний Новгород;True;135000;1;SEDAN;True;EE1D19;True;4;B;480;290000
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;LIFTBACK;True;007F00;True;5;B;435;572500
+LADA (ВАЗ);Granta;2017;Нижний Новгород;True;97000;1;SEDAN;True;FAFBFB;True;4;B;480;359000
+Kia;Optima;2019;Нижний Новгород;NaN;0;NaN;SEDAN;True;97948F;True;4;D;510;1639900
+Volkswagen;Polo;2017;Нижний Новгород;True;44800;3;SEDAN;True;FAFBFB;False;4;B;460;665000
+Ford;Focus;2005;Нижний Новгород;True;269595;3;SEDAN;True;040001;False;4;C;490;235000
+LADA (ВАЗ);Priora;2010;Нижний Новгород;True;111000;1;WAGON_5_DOORS;True;FAFBFB;True;5;B;444;159000
+Skoda;Kodiaq;2019;Афонино;True;8663;1;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;270;2120000
+Kia;Ceed;2009;Нижний Новгород;True;136310;2;WAGON_5_DOORS;False;007F00;False;5;C;534;399990
+Citroen;C4;2014;Нижний Новгород;True;111099;2;SEDAN;True;CACECB;False;4;C;440;480000
+Kia;Rio;2014;Нижний Новгород;True;92435;1;SEDAN;True;FAFBFB;False;4;B;500;439990
+Volkswagen;Passat;2008;Нижний Новгород;True;163612;3;SEDAN;True;97948F;False;4;D;565;389990
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;SEDAN;True;FAFBFB;True;4;B;520;528500
+Kia;Ceed;2007;Нижний Новгород;True;130000;2;WAGON_5_DOORS;True;CACECB;False;5;C;534;349900
+Mercedes-Benz;G-Класс;1998;Дзержинск;True;290000;3;ALLROAD_5_DOORS;False;040001;False;5;J;480;1290000
+Suzuki;SX4;2011;Нижний Новгород;True;98000;1;HATCHBACK_5_DOORS;True;97948F;False;5;J;270;578000
+LADA (ВАЗ);Vesta;2016;Нижний Новгород;True;39000;1;SEDAN;True;FAFBFB;False;4;B;480;518000
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;SEDAN;True;22A0F8;True;4;B;520;631500
+Suzuki;Grand Vitara;2008;Нижний Новгород;True;152000;2;ALLROAD_5_DOORS;True;040001;False;5;J;398;598000
+Chevrolet;Niva;2013;Нижний Новгород;True;87000;2;ALLROAD_5_DOORS;True;0000CC;False;5;J;320;358000
+Nissan;X-Trail;2013;Нижний Новгород;True;75763;1;ALLROAD_5_DOORS;True;040001;False;5;J;479;898000
+Skoda;Octavia;2019;Нижний Новгород;NaN;0;NaN;LIFTBACK;True;97948F;True;5;C;590;1653100
+Nissan;Juke;2011;Нижний Новгород;True;95000;2;ALLROAD_5_DOORS;True;040001;False;5;J;251;648000
+Nissan;X-Trail;2015;Нижний Новгород;True;96800;2;ALLROAD_5_DOORS;True;040001;False;5;J;497;1108000
+Toyota;Land Cruiser Prado;2011;Нижний Новгород;True;243000;3;ALLROAD_5_DOORS;True;97948F;True;5;J;621;1400000
+BMW;X5;2006;Нижний Новгород;True;229500;3;ALLROAD_5_DOORS;True;97948F;False;5;J;465;700000
+Hyundai;Solaris;2017;Нижний Новгород;True;40000;1;SEDAN;True;FAFBFB;False;4;B;480;590000
+Volkswagen;Tiguan;2011;Нижний Новгород;True;120000;1;ALLROAD_5_DOORS;True;0000CC;True;5;J;470;570000
+Fiat;Albea;2011;Нижний Новгород;True;132000;3;SEDAN;True;97948F;False;4;B;515;234888
+Great Wall;Hover H6;2014;Нижний Новгород;True;95367;3;ALLROAD_5_DOORS;True;CACECB;False;5;J;808;599000
+LADA (ВАЗ);Kalina;2013;Нижний Новгород;True;72754;1;HATCHBACK_5_DOORS;True;040001;False;5;B;240;259990
+Kia;Rio;2017;Нижний Новгород;True;21003;1;SEDAN;True;040001;False;4;B;500;659000
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;SEDAN;True;200204;True;4;B;520;534500
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;LIFTBACK;True;CACECB;True;5;B;435;612500
+Renault;Sandero;2012;Дзержинск;True;125000;3;HATCHBACK_5_DOORS;True;0000CC;False;5;B;320;309000
+LADA (ВАЗ);Kalina;2013;Дзержинск;True;100000;3;HATCHBACK_5_DOORS;True;FAFBFB;False;5;B;235;199000
+LADA (ВАЗ);Granta;2017;Дзержинск;True;43000;1;LIFTBACK;True;FAFBFB;False;5;B;440;339000
+Renault;Sandero;2012;Нижний Новгород;True;59616;1;HATCHBACK_5_DOORS;True;EE1D19;False;5;B;320;499990
+Datsun;on-DO;2018;Нижний Новгород;True;23986;1;SEDAN;True;200204;False;4;B;530;499990
+LADA (ВАЗ);Granta;2013;Нижний Новгород;True;69700;2;SEDAN;True;EE1D19;False;4;B;480;299990
+Hyundai;Solaris;2015;Нижний Новгород;True;103485;1;HATCHBACK_5_DOORS;True;200204;False;5;B;370;529990
+Chevrolet;Lacetti;2007;Нижний Новгород;True;212577;3;SEDAN;False;97948F;False;4;C;405;199990
+Nissan;Note;2006;Нижний Новгород;True;160000;3;HATCHBACK_5_DOORS;False;0000CC;False;5;C;280;220000
+Opel;Astra;2012;Нижний Новгород;True;88301;1;HATCHBACK_5_DOORS;True;040001;False;5;C;370;529000
+LADA (ВАЗ);Vesta;2020;Нижний Новгород;NaN;0;NaN;WAGON_5_DOORS;True;97948F;True;5;B;480;961900
+Volkswagen;Touareg;2019;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;810;4934000
+LADA (ВАЗ);Priora;2014;Нижний Новгород;True;64000;2;SEDAN;True;CACECB;False;4;B;430;299000
+Skoda;Rapid;2014;Нижний Новгород;True;68016;1;LIFTBACK;True;FAFBFB;False;5;B;550;499990
+Kia;Rio;2011;Нижний Новгород;True;151443;1;SEDAN;True;040001;False;4;B;500;399990
+BMW;2 серия;2020;Нижний Новгород;True;14;1;COUPE;True;FAFBFB;True;2;C;390;2390000
+Kia;Picanto;2014;Нижний Новгород;True;16872;1;HATCHBACK_5_DOORS;True;200204;False;5;A;200;529990
+Chevrolet;Lanos;2007;Нижний Новгород;True;143000;3;SEDAN;True;CACECB;False;4;B;395;89000
+Chevrolet;Lanos;2007;Нижний Новгород;True;178000;3;SEDAN;True;0000CC;False;4;B;395;85000
+LADA (ВАЗ);Vesta;2020;Нижний Новгород;NaN;0;NaN;SEDAN;True;CACECB;True;4;B;480;944900
+Honda;CR-V;2013;Нижний Новгород;True;155000;1;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;589;1125000
+Great Wall;Hover H5;2012;Нижний Новгород;NaN;100892;1;ALLROAD_5_DOORS;True;97948F;False;5;J;810;427000
+BMW;X7;2020;Нижний Новгород;True;6;1;ALLROAD_5_DOORS;True;040001;True;5;J;326;5900000
+BMW;7 серия;2019;Нижний Новгород;True;8;1;SEDAN;True;040001;True;4;F;515;6300000
+Honda;CR-V;2004;Нижний Новгород;True;349000;3;ALLROAD_5_DOORS;False;CACECB;False;5;J;525;459000
+LADA (ВАЗ);Largus;2020;Нижний Новгород;NaN;0;NaN;WAGON_5_DOORS;True;FAFBFB;True;5;C;135;787900
+BMW;X7;2019;Нижний Новгород;True;5;1;ALLROAD_5_DOORS;True;97948F;True;5;J;326;5750000
+Ford;Focus;2012;Нижний Новгород;True;94000;1;WAGON_5_DOORS;True;97948F;False;5;C;476;439888
+Land Rover;Freelander;2004;Нижний Новгород;NaN;207000;2;ALLROAD_3_DOORS;True;040001;False;3;J;473;350000
+Hafei;Brio;2006;Нижний Новгород;True;80439;3;HATCHBACK_5_DOORS;True;FFD600;False;5;A;230;54000
+LADA (ВАЗ);Largus;2020;Нижний Новгород;NaN;0;NaN;WAGON_5_DOORS;True;FAFBFB;True;5;C;135;787900
+LADA (ВАЗ);2115;2007;Нижний Новгород;True;170000;2;SEDAN;True;040001;False;4;B;445;55000
+Mitsubishi;Outlander;2005;Нижний Новгород;True;230000;3;ALLROAD_5_DOORS;True;97948F;False;5;J;420;388000
+Smart;Fortwo;2015;Нижний Новгород;True;72500;2;HATCHBACK_3_DOORS;True;CACECB;False;3;A;220;488000
+LADA (ВАЗ);2114;2005;Ардатов;True;283245;3;HATCHBACK_5_DOORS;False;040001;False;5;B;330;63000
+Changan;CS35PLUS;2019;Нижний Новгород;True;2305;1;ALLROAD_5_DOORS;True;EE1D19;False;5;J;403;1099900
+Hyundai;ix35;2014;Нижний Новгород;True;62800;1;ALLROAD_5_DOORS;True;EE1D19;True;5;J;591;880000
+Ford;Focus;2003;Выкса;NaN;181000;2;SEDAN;False;0000CC;False;4;C;490;130000
+Hyundai;Creta;2017;Нижний Новгород;True;34000;1;ALLROAD_5_DOORS;True;CACECB;False;5;J;402;948000
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;SEDAN;True;CACECB;True;4;B;520;595800
+Nissan;Pathfinder;2013;Нижний Новгород;True;202020;2;ALLROAD_5_DOORS;True;97948F;False;5;J;515;1089000
+Dodge;Journey;2011;Дзержинск;True;200000;3;ALLROAD_5_DOORS;True;040001;False;5;J;1048;1000000
+Ford;Focus;2007;Нижний Новгород;True;151000;3;SEDAN;True;CACECB;False;4;C;490;257000
+Kia;Rio;2016;Нижний Новгород;True;40000;2;SEDAN;True;CACECB;False;4;B;500;649000
+Suzuki;SX4;2012;Нижний Новгород;True;118000;3;HATCHBACK_5_DOORS;True;040001;False;5;J;270;548000
+Lexus;RX;2003;Нижний Новгород;True;305000;3;ALLROAD_5_DOORS;True;C49648;False;5;J;490;600000
+LADA (ВАЗ);2121 (4x4);2020;Нижний Новгород;NaN;0;NaN;ALLROAD_3_DOORS;True;200204;True;3;J;265;572900
+Chevrolet;Aveo;2010;Нижний Новгород;True;124292;3;HATCHBACK_3_DOORS;True;EE1D19;True;3;B;220;255000
+Ford;Fusion;2007;Нижний Новгород;True;133000;2;HATCHBACK_5_DOORS;True;4A2197;False;5;B;337;305000
+Porsche;Cayenne;2013;Нижний Новгород;True;108000;2;ALLROAD_5_DOORS;True;040001;False;5;J;670;1799000
+LADA (ВАЗ);2121 (4x4);2020;Нижний Новгород;NaN;0;NaN;ALLROAD_3_DOORS;True;200204;True;3;J;265;572900
+Land Rover;Range Rover Sport;2009;Нижний Новгород;True;202000;3;ALLROAD_5_DOORS;True;040001;False;5;J;960;1030000
+Toyota;Corolla;2008;Нижний Новгород;True;200000;3;SEDAN;True;CACECB;False;4;C;450;370000
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;SEDAN;True;CACECB;True;4;B;520;556500
+Toyota;Corolla;2007;Нижний Новгород;True;141600;3;SEDAN;False;97948F;False;4;C;450;365000
+Nissan;Almera;2013;Нижний Новгород;True;112964;1;SEDAN;True;FAFBFB;False;4;B;500;399000
+LADA (ВАЗ);2114;2011;Нижний Новгород;True;35619;3;HATCHBACK_5_DOORS;True;97948F;False;5;B;330;169000
+Mercedes-Benz;GLK-Класс;2015;Нижний Новгород;True;71000;1;ALLROAD_5_DOORS;True;200204;True;5;J;450;1350000
+Hyundai;ix35;2012;Нижний Новгород;True;136710;2;ALLROAD_5_DOORS;True;0000CC;False;5;J;591;739000
+Datsun;on-DO;2017;Нижний Новгород;True;58564;1;SEDAN;True;FAFBFB;False;4;B;530;309000
+Opel;Astra;2008;Нижний Новгород;True;141000;3;HATCHBACK_3_DOORS;True;97948F;False;3;C;340;279000
+LADA (ВАЗ);Granta;2013;Мулино;True;71232;3;SEDAN;True;040001;False;4;B;480;170000
+LADA (ВАЗ);2105;2003;Нижний Новгород;True;169000;3;SEDAN;False;4A2197;False;4;C;385;22000
+Kia;Rio;2020;Нижний Новгород;NaN;0;NaN;HATCHBACK_5_DOORS;True;040001;True;5;B;390;999900
+Peugeot;408;2012;Нижний Новгород;True;95620;1;SEDAN;True;C49648;False;4;C;560;399000
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;LIFTBACK;True;040001;True;5;B;435;518500
+Peugeot;3008;2014;Нижний Новгород;True;72000;1;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;432;620000
+Skoda;Fabia;2010;Нижний Новгород;True;120000;3;HATCHBACK_5_DOORS;True;0000CC;False;5;B;300;325000
+LADA (ВАЗ);Vesta;2016;Нижний Новгород;True;87000;1;SEDAN;True;CACECB;True;4;B;480;435000
+Volkswagen;Polo;2018;Нижний Новгород;True;28000;1;SEDAN;True;C49648;True;4;B;460;680000
+Volkswagen;Touareg;2016;Нижний Новгород;True;46330;2;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;580;2295000
+Renault;Sandero;2013;Дзержинск;True;100000;3;HATCHBACK_5_DOORS;True;040001;False;5;B;320;339000
+Renault;Megane;2006;Семенов;True;172000;3;SEDAN;True;C49648;False;4;C;520;260000
+Skoda;Roomster;2013;Нижний Новгород;True;160000;1;COMPACTVAN;True;040001;True;5;M;494;450000
+Nissan;X-Trail;2010;Нижний Новгород;True;147000;3;ALLROAD_5_DOORS;True;040001;True;5;J;603;580000
+LADA (ВАЗ);XRAY;2019;Дзержинск;NaN;0;NaN;HATCHBACK_5_DOORS;True;FFD600;True;5;B;361;893900
+Ford;Mondeo;2011;Нижний Новгород;NaN;119710;1;SEDAN;True;040001;False;4;D;493;479000
+Volkswagen;Polo;2017;Нижний Новгород;True;21294;2;SEDAN;True;FAFBFB;False;4;B;460;700000
+Volkswagen;Polo;2013;Нижний Новгород;True;109000;2;SEDAN;True;040001;True;4;B;460;425000
+Mercedes-Benz;GLA;2018;Нижний Новгород;True;3249;1;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;421;2349000
+BMW;X3;2006;Нижний Новгород;True;305000;3;ALLROAD_5_DOORS;False;DEA522;False;5;J;480;750000
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;LIFTBACK;True;CACECB;True;5;B;435;587500
+Mitsubishi;Lancer;2008;Нижний Новгород;True;150000;3;SEDAN;True;040001;False;4;C;315;390000
+Ford;Focus;2015;Навашино;True;59000;1;HATCHBACK_5_DOORS;True;0000CC;False;5;C;277;579000
+Lexus;RX;2004;Нижний Новгород;True;225000;3;ALLROAD_5_DOORS;True;22A0F8;False;5;J;490;690000
+LADA (ВАЗ);Kalina;2007;Нижний Новгород;True;116000;3;SEDAN;False;4A2197;False;4;B;400;115000
+Mazda;3;2011;Нижний Новгород;True;154000;3;SEDAN;True;FAFBFB;False;4;C;430;539000
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;LIFTBACK;True;CACECB;True;5;B;435;550500
+LADA (ВАЗ);2115;2005;Нижний Новгород;True;131700;3;SEDAN;True;0000CC;False;4;B;445;60000
+Subaru;Outback;2011;Афонино;True;87200;2;WAGON_5_DOORS;True;FAFBFB;True;5;D;460;945000
+Lexus;LX;2011;Нижний Новгород;NaN;120000;2;ALLROAD_5_DOORS;True;040001;False;5;J;259;2900000
+Hyundai;Sonata;2008;Нижний Новгород;True;162447;3;SEDAN;True;EE1D19;False;4;D;430;329000
+Hyundai;Solaris;2014;Нижний Новгород;True;155019;1;SEDAN;True;4A2197;False;4;B;465;409000
+Mercedes-Benz;GLE;2016;Городец;True;79000;1;ALLROAD_5_DOORS;True;0000CC;False;5;J;690;3000000
+Honda;Pilot;2019;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;97948F;True;5;J;305;3657900
+Datsun;on-DO;2016;Нижний Новгород;True;80384;1;SEDAN;True;040001;False;4;B;530;314000
+Hyundai;Solaris;2012;Нижний Новгород;True;106500;2;HATCHBACK_5_DOORS;True;22A0F8;False;5;B;370;498000
+Kia;Sportage;2013;Нижний Новгород;True;115000;2;ALLROAD_5_DOORS;True;040001;False;5;J;564;768000
+SsangYong;Kyron;2013;Нижний Новгород;True;130000;1;ALLROAD_5_DOORS;True;97948F;False;5;J;625;498000
+Ford;Kuga;2013;Нижний Новгород;True;76000;2;ALLROAD_5_DOORS;True;007F00;False;5;J;456;858000
+LADA (ВАЗ);Vesta;2020;Дзержинск;NaN;0;NaN;WAGON_5_DOORS;True;0000CC;True;5;B;480;830900
+Kia;Sportage;2014;Нижний Новгород;True;118000;1;ALLROAD_5_DOORS;True;CACECB;False;5;J;564;798000
+Hyundai;ix35;2013;Афонино;True;99000;1;ALLROAD_5_DOORS;True;040001;True;5;J;591;895000
+LADA (ВАЗ);Granta;2014;Нижний Новгород;True;140000;1;SEDAN;True;040001;False;4;B;480;238000
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;SEDAN;True;CACECB;True;4;B;520;571500
+Mercedes-Benz;M-Класс;2006;Дзержинск;True;233000;3;ALLROAD_5_DOORS;False;C49648;False;5;J;551;650000
+Hyundai;Solaris;2013;Нижний Новгород;True;124000;3;HATCHBACK_5_DOORS;True;CACECB;False;5;B;370;399000
+LADA (ВАЗ);Vesta;2020;Нижний Новгород;NaN;0;NaN;WAGON_5_DOORS;True;97948F;True;5;B;480;895900
+Skoda;Octavia;2014;Нижний Новгород;True;115000;3;LIFTBACK;True;FAFBFB;False;5;C;568;499000
+Toyota;Corolla Verso;2006;Нижний Новгород;True;165786;3;COMPACTVAN;True;CACECB;False;5;M;63;377000
+Nissan;X-Trail;2017;Нижний Новгород;True;57000;1;ALLROAD_5_DOORS;True;007F00;True;5;J;497;1290000
+Kia;Rio;2018;Нижний Новгород;True;10250;1;SEDAN;True;0000CC;False;4;B;480;835000
+LADA (ВАЗ);Kalina;2012;Нижний Новгород;True;100000;3;HATCHBACK_5_DOORS;True;C49648;False;5;B;235;169000
+Kia;Ceed;2009;Нижний Новгород;True;28023;1;HATCHBACK_3_DOORS;True;007F00;False;3;C;340;528000
+Hyundai;Santa Fe;2008;Нижний Новгород;True;125000;2;ALLROAD_5_DOORS;True;97948F;False;5;J;469;389000
+Opel;Astra;2008;Нижний Новгород;True;136690;3;SEDAN;False;0000CC;False;4;C;490;320000
+Chevrolet;Niva;2013;Нижний Новгород;True;112000;2;ALLROAD_5_DOORS;True;007F00;False;5;J;320;299000
+Renault;Clio;2010;Нижний Новгород;True;138000;3;WAGON_5_DOORS;True;FAFBFB;False;5;B;NaN;339000
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;HATCHBACK_5_DOORS;True;007F00;True;5;B;240;586500
+Chevrolet;Aveo;2008;Нижний Новгород;True;142000;3;SEDAN;True;040001;False;4;B;400;229000
+Geely;Emgrand EC7;2013;Нижний Новгород;True;91000;2;SEDAN;True;CACECB;False;4;D;NaN;259000
+Ford;Focus;2007;Нижний Новгород;True;140100;3;HATCHBACK_5_DOORS;True;040001;False;5;C;282;249000
+Opel;Astra;2007;Нижний Новгород;True;143000;3;HATCHBACK_5_DOORS;True;97948F;False;5;C;380;269000
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;HATCHBACK_5_DOORS;True;200204;True;5;B;240;523500
+BMW;3 серия;2014;Нижний Новгород;True;73000;3;SEDAN;True;FAFBFB;False;4;D;480;1499000
+Renault;Symbol;2008;Нижний Новгород;True;140000;2;SEDAN;True;FAFBFB;False;4;B;506;205000
+Peugeot;3008;2011;Нижний Новгород;True;113000;2;ALLROAD_5_DOORS;True;97948F;False;5;J;432;430000
+Skoda;Yeti;2013;Нижний Новгород;NaN;75000;1;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;405;530000
+Mercedes-Benz;Vito;2018;Нижний Новгород;NaN;4000;1;MINIVAN;True;040001;True;4;M;670;2380000
+LADA (ВАЗ);Priora;2009;Выкса;True;93000;2;HATCHBACK_5_DOORS;True;FAFBFB;False;5;B;360;155000
+LADA (ВАЗ);Granta;2020;Дзержинск;NaN;0;NaN;LIFTBACK;True;CACECB;True;5;B;435;524500
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;LIFTBACK;True;CACECB;True;5;B;435;524500
+LADA (ВАЗ);2112;2005;Нижний Новгород;True;160000;3;HATCHBACK_5_DOORS;False;97948F;False;5;B;399;70000
+Mercedes-Benz;A-Класс;2018;Нижний Новгород;True;5743;1;SEDAN;True;CACECB;True;4;C;420;2199000
+Renault;Logan;2010;Афонино;True;140000;1;SEDAN;True;0000CC;True;4;B;510;280000
+Ravon;Gentra;2017;Нижний Новгород;True;60000;1;SEDAN;True;200204;False;4;C;405;450000
+Land Rover;Range Rover Sport;2008;Нижний Новгород;True;181000;3;ALLROAD_5_DOORS;False;FAFBFB;False;5;J;960;639000
+Volvo;XC40;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;040001;True;5;J;460;2996600
+Peugeot;408;2016;Нижний Новгород;True;92454;1;SEDAN;True;97948F;False;4;C;560;634000
+BMW;X3;2005;Нижний Новгород;True;118000;3;ALLROAD_5_DOORS;True;0000CC;False;5;J;500;479000
+LADA (ВАЗ);2121 (4x4);2016;Нижний Новгород;True;63000;2;ALLROAD_3_DOORS;True;4A2197;False;3;J;265;485000
+Lifan;X60;2013;Нижний Новгород;True;97000;2;ALLROAD_5_DOORS;True;040001;False;5;J;405;369000
+Chevrolet;Rezzo;2007;Нижний Новгород;True;157000;3;COMPACTVAN;True;EE1D19;False;5;M;325;279000
+Toyota;Corolla;2010;Нижний Новгород;True;147000;3;SEDAN;False;CACECB;False;4;C;450;529000
+Ford;Mondeo;2008;Нижний Новгород;True;169824;3;SEDAN;False;CACECB;False;4;D;535;337000
+Renault;Kaptur;2017;Нижний Новгород;True;70218;1;ALLROAD_5_DOORS;True;FAFBFB;False;5;J;387;754000
+Volvo;XC40;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;040001;True;5;J;460;2996600
+Audi;A8;1994;Дзержинск;NaN;186000;3;SEDAN;False;0000CC;False;4;F;525;180000
+Kia;Sportage;2015;Нижний Новгород;True;73000;3;ALLROAD_5_DOORS;True;040001;False;5;J;564;980000
+Renault;Symbol;2003;Нижний Новгород;True;150000;3;SEDAN;True;EE1D19;False;4;B;510;105000
+Ford;Focus;2012;Нижний Новгород;True;112260;3;SEDAN;True;0000CC;True;4;C;372;450000
+Opel;Corsa;2008;Нижний Новгород;True;154000;2;HATCHBACK_5_DOORS;True;040001;False;5;B;285;230000
+BMW;3 серия;2013;Нижний Новгород;True;112000;3;LIFTBACK;True;FAFBFB;False;5;D;520;1190000
+Kia;Ceed;2007;Нижний Новгород;True;158000;3;HATCHBACK_5_DOORS;True;0000CC;False;5;C;340;339000
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;LIFTBACK;True;040001;True;5;B;435;544500
+Mercedes-Benz;B-Класс;2010;Нижний Новгород;False;230000;2;HATCHBACK_5_DOORS;True;97948F;False;5;C;544;450000
+Toyota;RAV4;2006;Нижний Новгород;True;297533;3;ALLROAD_5_DOORS;True;97948F;True;5;J;586;619000
+Kia;Sorento;2018;Нижний Новгород;True;45000;2;ALLROAD_5_DOORS;True;FAFBFB;False;5;J;605;2140000
+LADA (ВАЗ);Vesta;2019;Нижний Новгород;NaN;14000;1;SEDAN;True;FAFBFB;False;4;B;480;597750
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;HATCHBACK_5_DOORS;True;0000CC;True;5;B;240;571500
+BMW;X6;2014;Нижний Новгород;NaN;56261;3;ALLROAD_5_DOORS;True;0000CC;False;5;J;580;2959000
+Volkswagen;Jetta;2011;Нижний Новгород;NaN;155000;1;SEDAN;True;0000CC;True;4;C;510;498000
+Ford;Focus;2008;Нижний Новгород;True;250000;3;SEDAN;True;0000CC;False;4;C;467;280000
+Chevrolet;Lacetti;2011;Нижний Новгород;True;69904;2;HATCHBACK_5_DOORS;True;22A0F8;True;5;C;275;375000
+Renault;Kaptur;2017;Нижний Новгород;True;66520;1;ALLROAD_5_DOORS;True;FAFBFB;False;5;J;387;784000
+LADA (ВАЗ);2121 (4x4);2020;Нижний Новгород;NaN;0;NaN;ALLROAD_3_DOORS;True;007F00;True;3;J;265;566900
+LADA (ВАЗ);Largus;2016;Афонино;True;73000;1;WAGON_5_DOORS;True;200204;True;5;C;135;500000
+LADA (ВАЗ);Vesta;2020;Дзержинск;NaN;0;NaN;SEDAN;True;CACECB;True;4;B;480;786900
+Chevrolet;Cruze;2012;Нижний Новгород;True;126000;2;SEDAN;True;040001;False;4;C;450;449000
+Opel;Astra;2012;Нижний Новгород;True;112000;2;HATCHBACK_5_DOORS;True;CACECB;False;5;C;370;460000
+LADA (ВАЗ);Priora;2013;Нижний Новгород;True;81256;1;WAGON_5_DOORS;True;040001;False;5;B;444;274000
+Toyota;Highlander;2017;Нижний Новгород;True;93000;1;ALLROAD_5_DOORS;True;040001;False;5;J;269;2580000
+Ford;Focus;2008;Нижний Новгород;True;130000;2;SEDAN;True;040001;False;4;C;467;340000
+Chevrolet;Cruze;2010;Нижний Новгород;True;65940;1;SEDAN;True;CACECB;False;4;C;450;469000
+Ford;Focus;2012;Нижний Новгород;True;109000;3;HATCHBACK_5_DOORS;True;EE1D19;False;5;C;277;398000
+Audi;100;1991;Нижний Новгород;True;380000;3;SEDAN;True;660099;False;4;E;510;109000
+Renault;Kaptur;2017;Нижний Новгород;True;67650;1;ALLROAD_5_DOORS;True;FAFBFB;False;5;J;387;784000
+Hyundai;Elantra;2004;Нижний Новгород;True;175000;3;SEDAN;True;CACECB;False;4;C;415;250000
+LADA (ВАЗ);XRAY;2020;Нижний Новгород;NaN;0;NaN;HATCHBACK_5_DOORS;True;EE1D19;True;5;B;361;741900
+Ford;Mondeo;2010;Нижний Новгород;True;190000;3;SEDAN;True;040001;False;4;D;535;368000
+Volvo;XC90;2011;Нижний Новгород;True;156238;3;ALLROAD_5_DOORS;True;0000CC;False;5;J;1178;999990
+Nissan;Qashqai;2013;Нижний Новгород;True;128777;1;ALLROAD_5_DOORS;True;EE1D19;False;5;J;400;649990
+LADA (ВАЗ);XRAY;2020;Нижний Новгород;NaN;0;NaN;HATCHBACK_5_DOORS;True;FAFBFB;True;5;B;361;779900
+LADA (ВАЗ);XRAY;2017;Нижний Новгород;True;61238;2;HATCHBACK_5_DOORS;True;FAFBFB;False;5;B;361;529990
+Nissan;Juke;2012;Нижний Новгород;NaN;84579;1;ALLROAD_5_DOORS;True;040001;False;5;J;251;479990
+Kia;Sportage;2012;Нижний Новгород;True;105158;1;ALLROAD_5_DOORS;True;FAFBFB;False;5;J;564;749990
+Kia;Sportage;2015;Нижний Новгород;True;62887;1;ALLROAD_5_DOORS;True;C49648;False;5;J;564;969990
+Hyundai;Tucson;2015;Нижний Новгород;True;137830;1;ALLROAD_5_DOORS;True;040001;False;5;J;488;1129990
+Lexus;RX;2012;Нижний Новгород;True;192345;1;ALLROAD_5_DOORS;False;FAFBFB;False;5;J;446;1399990
+Ford;Fiesta;2016;Нижний Новгород;True;36840;1;HATCHBACK_5_DOORS;True;FAFBFB;False;5;B;295;549990
+Kia;Seltos;2020;Нижний Новгород;NaN;0;NaN;ALLROAD_5_DOORS;True;97948F;True;5;J;433;1499900
+Kia;Sorento;2012;Нижний Новгород;True;169537;3;ALLROAD_5_DOORS;True;CACECB;False;5;J;1047;824990
+Kia;Sportage;2017;Нижний Новгород;True;46962;1;ALLROAD_5_DOORS;True;200204;False;5;J;491;1189990
+Kia;Sportage;2017;Нижний Новгород;True;66372;1;ALLROAD_5_DOORS;True;CACECB;False;5;J;491;1229990
+Renault;Duster;2015;Нижний Новгород;True;150342;2;ALLROAD_5_DOORS;True;97948F;False;5;J;408;579990
+Nissan;Qashqai;2016;Нижний Новгород;True;40072;2;ALLROAD_5_DOORS;True;97948F;False;5;J;430;929990
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;HATCHBACK_5_DOORS;True;CACECB;True;5;B;240;571500
+Opel;Antara;2014;Нижний Новгород;True;86481;1;ALLROAD_5_DOORS;True;200204;False;5;J;370;849990
+Nissan;Juke;2012;Нижний Новгород;True;119920;2;ALLROAD_5_DOORS;True;97948F;False;5;J;251;499990
+Toyota;RAV4;2011;Нижний Новгород;True;131148;2;ALLROAD_5_DOORS;False;CACECB;False;5;J;410;874990
+Nissan;Qashqai;2012;Нижний Новгород;True;98548;1;ALLROAD_5_DOORS;True;97948F;False;5;J;400;649990
+Lexus;RX;2006;Нижний Новгород;True;197688;3;ALLROAD_5_DOORS;False;040001;False;5;J;490;619990
+Kia;Rio;2020;Нижний Новгород;NaN;0;NaN;HATCHBACK_5_DOORS;True;FAFBFB;True;5;B;390;974900
+Ford;EcoSport;2017;Нижний Новгород;True;32100;1;ALLROAD_5_DOORS;True;040001;False;5;J;310;947000
+LADA (ВАЗ);Granta;2020;Нижний Новгород;NaN;0;NaN;WAGON_5_DOORS;True;22A0F8;True;5;B;360;635800
+Audi;A4;2014;Нижний Новгород;True;152917;1;SEDAN;True;97948F;False;4;D;480;827000
+Volvo;XC70;2016;Нижний Новгород;True;182814;1;WAGON_5_DOORS;True;040001;False;5;D;944;1599990
+Porsche;Macan;2019;Афонино;True;7446;1;ALLROAD_5_DOORS;True;22A0F8;False;5;J;500;4485000
+Kia;Ceed;2014;Нижний Новгород;True;54000;2;HATCHBACK_5_DOORS;True;200204;True;5;C;380;730000
+Toyota;RAV4;2014;Нижний Новгород;True;51000;1;ALLROAD_5_DOORS;True;200204;True;5;J;506;1260000
+Volkswagen;Touareg;2012;Нижний Новгород;True;144500;2;ALLROAD_5_DOORS;True;FAFBFB;True;5;J;580;1550000
+Kia;Ceed;2008;Нижний Новгород;True;127000;2;WAGON_5_DOORS;True;EE1D19;False;5;C;534;379000
