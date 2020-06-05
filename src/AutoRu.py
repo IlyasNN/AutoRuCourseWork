@@ -1,5 +1,7 @@
+
 import requests
 import csv
+import requests
 
 # Заголовки страницы
 HEADERS = {
@@ -21,19 +23,25 @@ HEADERS = {
     'x-requested-with': 'fetch'
 }
 
+
+
 # URL на который будет отправлен запрос
 URL = 'https://auto.ru/-/ajax/desktop/listing/'
 
 # Параметры запроса
 PARAMS = {
-    # 'catalog_filter': [{"mark": "VAZ"}],
+    #'catalog_filter': [{"mark": "BMW"}],
     'section': "all",
     'category': "cars",
     'sort': "fresh_relevance_1-desc",
+    'output_type': "list"
+    #,'geo_id':
 }
 
+K = 0
 
 def parse_page(page):
+    global K
     PARAMS['page'] = page
 
     response = requests.post(URL, json=PARAMS,
@@ -49,8 +57,7 @@ def parse_page(page):
 
         # Марка автомобиля
         try:
-            Mark_info = str(
-                data[i]['vehicle_info']['mark_info']['name'])
+            Mark_info = str(data[i]['vehicle_info']['mark_info']['name'])
         except:
             Mark_info = 'NaN'
 
@@ -67,24 +74,45 @@ def parse_page(page):
         except:
             Year = 'NaN'
 
+        # Ценавая категория
+        try:
+            Price_segment = str(data[i]['vehicle_info']['super_gen']['price_segment'])
+        except:
+            Price_segment = 'NaN'
+
+        # Коробка_передач
+        try:
+            Transmission = str(
+                data[i]['vehicle_info']['tech_param']['transmission'])
+        except:
+            Transmission = 'NaN'
+
+            # Привод
+        try:
+            Gear_type = str(
+                data[i]['vehicle_info']['tech_param']['gear_type'])
+        except:
+            Gear_type = 'NaN'
+
+        # Fuel_rate
+        try:
+            FuelRate = str(
+                data[i]['vehicle_info']['tech_param']['fuel_rate'])
+        except:
+            FuelRate = 'NaN'
+
+        # Страна производителя
+        try:
+            Vendor_country = str(data[i]['vehicle_info']['vendor'])
+        except:
+            Vendor_country = 'NaN'
+
         # Регион, в котором находится автомобиль
         try:
             Region = str(
                 data[i]['seller']['location']['region_info']['name'])
         except:
             Region = 'NaN'
-
-        # Всё ли в порядке с Vin номером
-        try:
-            Vin_resolution = str(data[i]['documents']['vin_resolution'])
-            if Vin_resolution == 'OK':
-                Vin_resolution = True
-            elif Vin_resolution == 'ERROR':
-                Vin_resolution = False
-            else:
-                Vin_resolution = 'NaN'
-        except:
-            Vin_resolution = 'NaN'
 
         # Пробег автомобиля
         try:
@@ -94,7 +122,7 @@ def parse_page(page):
 
         # Мощность
         try:
-            Horse_power = str(data[i]['owner_expenses']['horse_power'])
+            Horse_power = str(data[i]['owner_expenses']['transport_tax']['horse_power'])
         except:
             Horse_power = 'NaN'
 
@@ -164,6 +192,13 @@ def parse_page(page):
         # Возвращается несколько фото, мы их добавляем в словарь img_url
         for img in data[i]['state']['image_urls']:
             img_url.append(img['sizes']['1200x900'])
+            filename = '../scvResults/images/' + Mark_info +';' + Model_info + ';' + str(K) + '.jpg'
+            K = K + 1
+            response = requests.get('https:'+img['sizes']['1200x900'])
+            if response.status_code == 200:
+                with open(filename, 'wb') as imgfile:
+                    imgfile.write(response.content)
+
 
         # Информация об автомобиле
         try:
@@ -175,15 +210,20 @@ def parse_page(page):
         for link_img_0 in img_url:  # Перебираем ссылки из словаря img_url, и записываем их в одну переменную текстом
             link_img += str(link_img_0) + '\n'
 
-        with open('autoRu.csv', 'a') as f:
+        with open('../scvResults/autoRu.csv', 'a') as f:
             writer = csv.writer(f, delimiter=';')
             writer.writerow((
                 Mark_info,
                 Model_info,
                 Year,
+                Price_segment,
+                Transmission,
+                Gear_type,
+                FuelRate,
+                Vendor_country,
                 Region,
-                Vin_resolution,
                 Mileage,
+                Horse_power,
                 Owners_number,
                 Body_type,
                 PTS,
@@ -204,15 +244,20 @@ def parse_page(page):
 def main():
     number_of_parsed = 0
 
-    with open('autoRu.csv', 'w') as f:
+    with open('../scvResults/autoRu.csv', 'w') as f:
         writer = csv.writer(f, delimiter=';')
         writer.writerow(
             ['Mark_info',
              'Model_info',
              'Year',
+             'Price_segment',
+             'Transmission',
+             'Gear_type',
+             'Fuel_rate',
+             'Vendor_country',
              'Region',
-             'Vin_resolution',
              'Mileage',
+             'Horse_power',
              'Owners_number',
              'Body_type',
              'PTS',
@@ -224,12 +269,15 @@ def main():
              'Price_rub'
              ])
 
-    for page in range(0, 100):
-        number_of_parsed += parse_page(page)
-        print('Page: ' + str(page))
+    for geo_id in range(105, 200):
+        PARAMS['geo_id'] = str(geo_id)
+        print(PARAMS)
+        for page in range(0, 100):
+            number_of_parsed += parse_page(page)
+            print('Page: ' + str(page))
 
-    print('Successfully parsed: ')
-    print(number_of_parsed)
+        print('Successfully parsed: ')
+        print(number_of_parsed)
 
 
 if __name__ == '__main__':
